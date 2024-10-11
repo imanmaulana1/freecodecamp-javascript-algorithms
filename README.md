@@ -29,7 +29,7 @@ This repository contains a collection of projects that I have built to fulfill t
 - An interactive application that allows users to search for Pokémon by name or ID.
 - Fetches data from the PokéAPI and displays information such as stats, types, and images.
 
-[View Projects]()
+[View Projects](https://www.freecodecamp.org/certification/imanmaulana119/javascript-algorithms-and-data-structures-v8)
   
 ## Certification Objective:
 The JavaScript Algorithms and Data Structures certification from FreeCodeCamp is designed to teach developers how to effectively utilize JavaScript to solve algorithmic challenges and manage data structures. It emphasizes core concepts such as:
